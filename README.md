@@ -10,6 +10,10 @@ pytube adalah sebuah aplikasi sederhana yang memungkinkan pengguna untuk mengund
 - Menampilkan status selesai jika unduhan berhasil.
 - Menampilkan pesan kesalahan jika terjadi kesalahan dalam unduhan.
 
+## Preview
+
+![Preview](https://github.com/rakarmp/pytube/blob/master/preview/13.PNG?raw=true)
+
 ## Dependensi
 
 Aplikasi ini membutuhkan beberapa dependensi yang perlu diinstal sebelum digunakan:
